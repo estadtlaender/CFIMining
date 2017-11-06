@@ -1,0 +1,6 @@
+thumbs.db
+.DS_Store
+
+/bin/
+/results/
+/resources/
